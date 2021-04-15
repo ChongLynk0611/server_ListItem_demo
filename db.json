@@ -1,0 +1,29 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "content": "Thức dậy",
+      "idFinish": true
+    },
+    {
+      "id": 2,
+      "content": "Ăn sáng",
+      "idFinish": true
+    },
+    {
+      "id": 3,
+      "content": "Đi học",
+      "idFinish": true
+    },
+    {
+      "id": 4,
+      "content": "Tắm rửa",
+      "idFinish": true
+    },
+    {
+      "id": 5,
+      "content": "Thể thao",
+      "idFinish": false
+    }
+  ]
+}
